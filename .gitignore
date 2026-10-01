@@ -1,0 +1,3 @@
+*.o
+sudoku
+compile_commands.json
